@@ -1,4 +1,4 @@
-// пыталась сделать аналогично, не получилось(
+// пыталась сделать аналогично, не получилось( Body: {"error":"Missing email or username"}
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
